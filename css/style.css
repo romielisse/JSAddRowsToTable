@@ -1,0 +1,9 @@
+table#myTable, tr,th,td {
+	border: 1px solid black;
+}
+
+#btn {
+	position: relative;
+	top: 30px;
+	left: 30px;
+}
